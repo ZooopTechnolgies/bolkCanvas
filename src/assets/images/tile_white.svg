@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="347px" height="285px" viewBox="0 0 347 285" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>tile_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tile_white" fill="#FFFFFF">
+            <path d="M221,109 L284,109 C295.045695,109 304,117.954305 304,129 L304,197 C304,208.045695 295.045695,217 284,217 L221,217 C209.954305,217 201,208.045695 201,197 L201,129 C201,117.954305 209.954305,109 221,109 Z M305,255 C299.477153,255 295,250.522847 295,245 C295,239.477153 299.477153,235 305,235 C310.522847,235 315,239.477153 315,245 C315,250.522847 310.522847,255 305,255 Z M50,285 L297,285 C324.614237,285 347,262.614237 347,235 L347,50 C347,22.3857625 324.614237,-5.07265313e-15 297,0 L50,0 C22.3857625,5.07265313e-15 -1.04871961e-14,22.3857625 -7.10542736e-15,50 L0,235 C3.38176876e-15,262.614237 22.3857625,285 50,285 Z" id="Fill-4"></path>
+        </g>
+    </g>
+</svg>
